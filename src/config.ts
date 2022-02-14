@@ -1,5 +1,5 @@
 const defaults = {
-  variant: 'standard',
+  variant: 'atomic',
   rated: true,
   chatFor: 30,
   description: (_conf: any) => '',
